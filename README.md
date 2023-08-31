@@ -1,4 +1,4 @@
-# calculator_codesoft
+# calculator_codsoft
 
 A new Flutter project.
 
